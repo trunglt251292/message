@@ -10,6 +10,6 @@ curl --location --request POST 'https://api.telegram.org/bot1350885083:AAFwYMN0n
   --header 'Content-Type: application/json' \
   --data-raw '{
     "text": "'"$message"'",
-    "chat_id": "-325952111",
+    "chat_id": "-380512164",
     "parse_mode": "html"
   }'
